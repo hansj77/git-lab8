@@ -1,0 +1,4 @@
+# Notes
+
+- git init, add, commit
+- git branch, switch, merge
